@@ -1,5 +1,8 @@
 .App {
+  height: 100vh;
   text-align: center;
+  background-color: #282c34;
+  color: #fff;
 }
 
 .App-logo {
@@ -35,4 +38,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.header-title{
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+.main-title{
+  font-size: 4.5em;
+  font-weight: 700;
+}
+
+.main-subtitle{
+  
 }
