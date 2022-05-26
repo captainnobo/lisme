@@ -27,7 +27,7 @@ function App() {
         </div>
       </div>
       <div style={{marginTop:30}}>
-        <img height={700} src='lisme/linux.png' />
+        <img height={700} src='./linux.png' />
       </div>
     </div>
   );
